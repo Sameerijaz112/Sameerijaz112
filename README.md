@@ -1,4 +1,4 @@
-<h1> Hi there 👋</h1>
+<h1 class=" text-center"> Hi there 👋</h1>
 
 <!--
 **Sameerijaz112/Sameerijaz112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
