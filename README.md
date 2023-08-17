@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sameer-ijaz-520296241/](https://www.linkedin.com/in/sameer-ijaz-520296241/)
 
-- 💬 Ask me about **Angular, Mean**
+- 💬 Ask me about **Angular, .Net**
 
 - 📫 How to reach me **sameerejaz970@gmail.com**
 
